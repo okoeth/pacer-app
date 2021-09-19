@@ -1,0 +1,6 @@
+geopy==1.17.0
+units>=0.0.7
+stravalib==0.9.4
+python-tcxparser==1.1.0
+stravaio==0.0.9
+gpxpy>=1.4.2

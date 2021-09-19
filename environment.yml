@@ -1,0 +1,13 @@
+name: pacer-app-env
+
+dependencies:
+  - ipython
+  - matplotlib
+  - numpy
+  - seaborn
+  - pandas
+  - pip
+  - python
+  - scikit-learn
+  - flask
+  - bokeh
